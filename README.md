@@ -1,5 +1,5 @@
 # Pose-Estimation
-OpenCV4.1.1, Ubuntu 18.04, Python, CUDA
+OpenCV4.1.1, Ubuntu 18.04, Python, CUDA.\
 Pose Estimation of three poses namely:
 1. Airplane Pose
 2. Peter Pan
