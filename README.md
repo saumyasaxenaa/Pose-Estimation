@@ -7,5 +7,4 @@ Poses predicted:
 2. Peter Pan
 3. Raise Hand
  
-![Airplane]
-https://github.com/saumyasaxenaa/Pose-Estimation/blob/master/Airplane.png
+
