@@ -8,4 +8,4 @@ Poses predicted:
 3. Raise Hand
  
 
-![GitHub Logo](https://github.com/saumyasaxenaa/Pose-Estimation/blob/master/Airplane.png)
+![GitHub Logo](https://github.com/saumyasaxenaa/Pose-Estimation/blob/master/Airplane.png) width="200" height="400" 
