@@ -5,8 +5,8 @@ Support Vector Machine Model has been used to predict poses using Raspberry Pi c
 Poses predicted:
 1. Airplane Pose
 2. Peter Pan
-3. Raise Hand
-Links Referred:
+3. Raise Hand\
+Links Referred:\
 https://spyjetson.blogspot.com/2019/09/jetsonnano-opencv-411-build.html
 https://spyjetson.blogspot.com/2019/10/jetsonnano-human-pose-estimation-using.html
 https://www.jetsonhacks.com/2019/04/14/jetson-nano-use-more-memory/
